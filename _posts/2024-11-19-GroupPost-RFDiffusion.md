@@ -15,4 +15,5 @@ Mr.Shi shared the classic RFDiffusion algorithm and provided a brief introductio
 - RFD training methods
 - applications
  <!-- excerpt end -->
-The specific PPT can be found here: https://github.com/Thaumiel-lbh/lab-website/blob/main/resource/RFDiffusion-20241119.pdf
+ 
+The specific files can be found here: [RFDiffusion pdf](https://github.com/Thaumiel-lbh/lab-website/blob/main/resource/RFDiffusion-20241119.pdf)
